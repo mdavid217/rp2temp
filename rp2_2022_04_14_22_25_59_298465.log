@@ -1,0 +1,13 @@
+2022-04-14 22:25:59,326/rp2/INFO: Country: us
+2022-04-14 22:25:59,327/rp2/INFO: Accounting Method: fifo
+2022-04-14 22:25:59,339/rp2/INFO: Configuration file: test.config
+2022-04-14 22:25:59,339/rp2/INFO: Input file: test.ods
+2022-04-14 22:25:59,343/rp2/INFO: Processing BTC
+2022-04-14 22:25:59,346/rp2/WARNING: BTC OutTransaction (2021-02-15 12:00:00+00:00, id 8): crypto_fee * spot_price != fiat_fee: 0.000000 != 50.000000
+2022-04-14 22:25:59,350/rp2/INFO: Generating output for plugin 'rp2.plugin.report.rp2_full_report'
+2022-04-14 22:25:59,581/rp2_full_report/INFO: Plugin 'rp2.plugin.report.rp2_full_report' output: /home/XX/CapGains/RP2/TEST/output/test_fifo_rp2_full_report.ods
+2022-04-14 22:25:59,583/rp2/INFO: Generating output for plugin 'rp2.plugin.report.us.tax_report_us'
+2022-04-14 22:25:59,825/tax_report_us/INFO: Plugin 'rp2.plugin.report.us.tax_report_us' output: /home/XX/CapGains/RP2/TEST/output/test_fifo_tax_report_us.ods
+2022-04-14 22:25:59,826/rp2/INFO: Log file: ./log/rp2_2022_04_14_22_25_59_298465.log
+2022-04-14 22:25:59,826/rp2/INFO: Generated output directory: output
+2022-04-14 22:25:59,827/rp2/INFO: Done
